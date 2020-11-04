@@ -12,8 +12,8 @@ public class Main {
 
                 opcion = Integer.parseInt(JOptionPane.showInputDialog(null,
                         "Menú de Opciones\n\n"
-                                + "1. Insertar un nodo\n"
-                                + "2. Eliminar un nodo\n"
+                                + "1. Insertar un Nodo\n"
+                                + "2. Eliminar un Nodo\n"
                                 + "3. ¿La Pila esta vacia?\n"
                                 + "4. ¿Cual es el último valor ingresado en la Pila?\n"
                                 + "5. ¿Cuantos nodos tiene la pila?\n"
